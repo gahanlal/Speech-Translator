@@ -31,13 +31,16 @@ Copy
 Edit
 git clone https://github.com/gahanlal/speech-translator-app.git
 cd speech-translator-app
+
 Create a virtual environment (optional but recommended):
 
 bash
 Copy
 Edit
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+source venv/bin/activate  
+
+# On Windows use: venv\Scripts\activate
 Install dependencies:
 
 bash
