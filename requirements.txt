@@ -1,0 +1,4 @@
+Flask==2.2.3
+SpeechRecognition==3.8.1
+deep-translator==1.8.1
+gTTS==2.3.2
